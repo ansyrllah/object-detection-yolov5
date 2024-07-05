@@ -13,6 +13,17 @@ The Optisense Object Detector project aims to develop a cutting-edge system that
 
 For further information about this project, please see the [Proposal Capstone Project](https://my.visme.co/view/w46z1j7o-opti-sense).
 
+### Article
+
+For further information about this project, please see the [Article](/OPTISENSE%20Artikel.pdf).
+
+### Youtube 
+
+For further information about this project, please see the [Youtube](https://youtu.be/n2i80Y-d8QA?si=To2stclIxRl8EZmU).
+
+### Training Program
+<summary>For further information about this project, please see the   &nbsp;<a href="https://colab.research.google.com/drive/1N0z1v5bFJLU1O-6Mq8H2F20IdKTRmteQ?usp=sharing"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open Training Program In Colab"></a></summary>
+
 ## How to use this program
 
 ### Preparation
