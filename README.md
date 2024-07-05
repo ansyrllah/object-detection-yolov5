@@ -34,9 +34,9 @@ del miniconda.exe
 
 ### Running program
 1. Open Anaconda Promt (miniconda3) in your windows.
-2. Clone Optisense Repository
+2. Clone [Optisense Repository](https://github.com/ansyrllah/object-detection-yolov5)
     ```bash
-      git clone https://github.com/ultralytics/yolov5 # clone
+      git clone https://github.com/ansyrllah/object-detection-yolov5.git # clone
     ```
 3. Open the repository
     ```bash
