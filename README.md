@@ -13,8 +13,6 @@ The Optisense Object Detector project aims to develop a cutting-edge system that
 
 For further information about this project, please see the [Proposal Capstone Project](https://my.visme.co/view/w46z1j7o-opti-sense).
 
- [official website here.](https://docs.anaconda.com/miniconda/#latest-miniconda-installer-links).
-
 ## How to use this program
 
 ### Preparation
